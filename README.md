@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @armutyus
-- 🌱 I’m currently learning Java/Kotlin
+- 🌱 Developing apps with Kotlin
 
 <!---
 armutyus/armutyus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
